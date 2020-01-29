@@ -1,4 +1,4 @@
-# Node.js & Passport Login
+# Passport_Mongo_Login_Page
 
 This is a lohin page with a registration page as well. The technologies used here are Passport, Mongoose, EJS, Node.js, ETC.
 
