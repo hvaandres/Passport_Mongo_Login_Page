@@ -20,7 +20,7 @@ $ npm run dev
 
 ### MongoDB
 
-Make sure that you install your keys "config/keys.js" You will find this information here https://cloud.mongodb.com/ 
+Make sure that you install your keys "config/keys.js" You will find this information in here https://cloud.mongodb.com/ 
 
 
 # Passport_Mongo_Login_Page
